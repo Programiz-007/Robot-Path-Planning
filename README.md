@@ -4,11 +4,7 @@ A comparative study of classical and sampling-based path planning algorithms on 
 
 This project implements six path planning algorithms across two environment configurations (obstacle-free and obstacle-laden), providing side-by-side visual and quantitative comparisons of their behavior, optimality, and computational cost.
 
-<p align="center">
-  <img src="assets/showcase_astar.gif" alt="A* Manhattan solving Phase 2 obstacle map" width="480"/>
-  <br/>
-  <em>A* (Manhattan heuristic) exploring and solving the Phase 2 obstacle map in real time.</em>
-</p>
+
 
 ---
 
